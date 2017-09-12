@@ -12,3 +12,9 @@ Pull request need to be able to merge.
 After a pull request is submitted, main developer reviews it, and clicks merge.
 
 Main developer does git pull origin master to their local machine
+
+
+## Languages 
+
+https://laravel.com/docs/5.4/localization
+
